@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bloco_De_Notas/1.0.0": {
+        "runtime": {
+          "Bloco_De_Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bloco_De_Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
